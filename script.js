@@ -2,7 +2,7 @@
 // @name         Quizziz Paper Enhanced
 // @namespace    http://psicointel.cl/
 // @version      0.1
-// @description  Increases Quizizz questions font for Paper Mode. It also increases the height of the questions section and reduces the height of the answers section. Images are now expandable on click.
+// @description  Increases Quizizz questions font for Paper Mode. It also increases the height of the questions section and reduces the height of the answers section. Images are now expandable on click and a little bigger.
 // @author       Sandrino Escobar
 // @match        *://quizizz.com/admin/pm/*
 // @grant        none
